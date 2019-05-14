@@ -17,7 +17,7 @@ as id_dsa and id_dsa.pub. Then find a way to insert the content of id_dsa.pub in
 
 
 ## Step 3, configure the ssh session in VS Code
-You can either press F1 then select "Remote-SSH: connect to Host" then configure or you can just edit C:\users\yourusername\.ssh\config file with the following content
+You can either press F1 then select "Remote-SSH: connect to Host" then configure or you can just edit C:\users\yourusername\\.ssh\config file with the following content
 
 ```bash
 Host a_name_for_host
@@ -37,3 +37,8 @@ Note that you can configure multiple hosts inside this file.
 Reference:
 
 [VS Code Remote Development](https://code.visualstudio.com/docs/remote/ssh)
+
+
+
+----
+****
