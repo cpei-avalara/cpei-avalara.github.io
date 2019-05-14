@@ -3,10 +3,12 @@ layout: post
 title: Visual Studio Code Remote Development Quick Guide
 ---
 
+![an image alt text](https://img.icons8.com/color/96/000000/visual-studio.png "an image title") 
+
+
 ## Step 1, install VS Code Insider version
 For now, this is still an experimental feature and rumor says it will be available in June in official release. You can follow this [Link](https://code.visualstudio.com/insiders/) to download the insider version.
 
-![an image alt text](https://img.icons8.com/color/96/000000/visual-studio.png "an image title") 
 
 
 ## Step 2, ssh passwordless login (authentication with key)
