@@ -6,6 +6,9 @@ title: Visual Studio Code Remote Development Quick Guide
 ## Step 1, install VS Code Insider version
 For now, this is still an experimental feature and rumor says it will be available in June in official release. You can follow this [Link](https://code.visualstudio.com/insiders/) to download the insider version.
 
+
+
+
 ## Step 2, ssh passwordless login (authentication with key)
 You can use different methods to generate a pair of ssh keys and save them in 
 
@@ -27,7 +30,7 @@ Host a_name_for_host
 
 Note that you can configure multiple hosts inside this file.
  
- ## Step 4, Connect to Host
+## Step 4, Connect to Host
  Press F1 in VS Code and connect to Remote Host and it will automatically install VS Code server. Then you can open the folder on the host start editing code!
  
  Note that only bash is supported. 
