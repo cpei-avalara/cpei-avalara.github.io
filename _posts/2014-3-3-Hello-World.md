@@ -13,7 +13,9 @@ You can use different methods to generate a pair of ssh keys and save them in C:
 You can either press F1 then select "Remote-SSH: connect to Host" then configure or you can just edit C:\users\yourusername\.ssh\config file with the following content
 
 >Host a_name_for_host
+
 >    HostName hostname
+
 >    User login_name
  
  ## Step 4, Connect to Host
