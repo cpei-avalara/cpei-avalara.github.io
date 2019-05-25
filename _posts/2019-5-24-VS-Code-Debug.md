@@ -11,7 +11,7 @@ This also include installing VS Code Insider version. (you have to wait until so
 
 Here is the link,
 
-https://cpei-avalara.github.io/VS-Code/ "vs code remote"
+https://cpei-avalara.github.io/VS-Code/
 
 
 
