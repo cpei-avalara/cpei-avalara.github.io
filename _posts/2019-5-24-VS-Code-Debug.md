@@ -85,7 +85,13 @@ Note that you need to make sure the current file opened by VS is the file you wa
 
 ![Remote Debug](/images/remote_debug.jpg "Remote debug")
 
-
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
 
 
 
