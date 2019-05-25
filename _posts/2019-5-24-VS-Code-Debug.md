@@ -6,7 +6,7 @@ title: Visual Studio Code Remote Debug (C++) Quick Guide
 ![an image alt text](https://img.icons8.com/color/96/000000/visual-studio.png "an image title") 
 
 
-## Step 1, Follow previous ![post](https://cpei-avalara.github.io/VS-Code/) to setup the environment
+## Step 1, Follow previous ![post](https://cpei-avalara.github.io/VS-Code/ "vs code remote") to setup the environment
 This also include installing VS Code Insider version. (you have to wait until sometime in June to use the official version which has this remote support).
 
 
