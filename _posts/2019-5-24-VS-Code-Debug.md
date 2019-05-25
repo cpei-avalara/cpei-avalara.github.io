@@ -79,6 +79,9 @@ Note that there is a `preLaunchTask`, that is a reference to the task defined by
 ## Step 4, Happy debugging
 Note that you need to make sure the current file opened by VS is the file you want to debug because the macros are defined in a way related to the current opened file.
 
+![Remote Debug](/images/remote_debug.jpg "Remote debug")
+
+
 
 
 
