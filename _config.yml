@@ -85,4 +85,8 @@ exclude:
   - README.md
   - CNAME
 
+
+markdown: redcarpet
+extensions: [fenced_code_blocks]
+
 theme: jekyll-theme-minimal
