@@ -11,7 +11,7 @@ This also include installing VS Code Insider version. (you have to wait until so
 
 Here is the link,
 
-![post](https://cpei-avalara.github.io/VS-Code/ "vs code remote")
+https://cpei-avalara.github.io/VS-Code/ "vs code remote"
 
 
 
@@ -26,7 +26,7 @@ After the files are shown from that folder, you can click on `Debug` from the me
 
 launch.json file 
 
-```json
+```
 {
     "version": "0.2.0",
     "configurations": [
@@ -57,7 +57,7 @@ launch.json file
 
 Note that there is a `preLaunchTask`, that is a reference to the task defined by `tasks.json` file. 
 
-```json
+```
 {
     "tasks": [
         {
